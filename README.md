@@ -7,8 +7,8 @@ I like training fellow technologists. Below is my course list, Check out and see
 Classes are conducted in Bangalore over the weekend. (since i have a dayjob).
 
 1. #### Course List
-+	   Dockers and Kubernetes 
-+	   Kubernetes, Istio and Prometheus
++	   (1) Dockers and Kubernetes 
++	   (2) Kubernetes, Istio and Prometheus
 
 ## My Resume
 
